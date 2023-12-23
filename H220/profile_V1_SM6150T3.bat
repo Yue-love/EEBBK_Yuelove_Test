@@ -2,7 +2,7 @@
 set main_docs=https://kdocs.cn/l/cune7WAK6oZX
 set block_docs=https://kdocs.cn/l/cune7WAK6oZX
 set link=https://yuelove.lanzouj.com/
-set lzdl=https://down.eebbk.top/bin/lzdl.7z
+set lzdl=https://github.com/Yue-love/EEBBK_Yuelove_Test/blob/main/bin/lzdl.7z
 set bff=%link%i72pU18ooe1i
 set magisk=%link%iJyrv15wcq8f
 set elf=%link%ixoNO13r8mda
